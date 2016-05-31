@@ -1,0 +1,5 @@
+package com.apache.tiles.app.controller;
+
+public class AppController {
+
+}

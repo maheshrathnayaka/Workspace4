@@ -1,0 +1,3 @@
+com\apache\tiles\app\controller\AppController.class
+com\apache\tiles\app\configuration\AppInitializer.class
+com\apache\tiles\app\configuration\AppConfig.class

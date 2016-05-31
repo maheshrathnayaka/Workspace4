@@ -1,0 +1,5 @@
+package com.user.management.converter;
+
+public class RoleToUserProfileConverter {
+
+}

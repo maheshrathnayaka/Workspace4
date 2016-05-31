@@ -1,0 +1,5 @@
+package com.user.management.dao;
+
+public class HibernateTokenRepositoryImpl {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CRUDAngular/src/main/webapp/static/js/controller/user_controller&apos; to &apos;user_controller.js&apos;" description="Rename resource &apos;user_controller&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/static/js/controller/user_controller" name="user_controller.js" stamp="1464584016166" updateReferences="true"/>
+</session>

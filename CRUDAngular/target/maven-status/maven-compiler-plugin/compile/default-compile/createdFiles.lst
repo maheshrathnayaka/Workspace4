@@ -1,0 +1,8 @@
+com\crud\angular\service\UserService.class
+com\crud\angular\model\User.class
+com\crud\angular\controller\IndexController.class
+com\crud\angular\configuration\HelloWorldConfiguration.class
+com\crud\angular\configuration\HelloWorldInitializer.class
+com\crud\angular\controller\HelloWorldRestController.class
+com\crud\angular\service\UserServiceImpl.class
+com\crud\angular\configuration\CORSFilter.class

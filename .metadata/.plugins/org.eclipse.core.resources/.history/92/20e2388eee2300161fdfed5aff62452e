@@ -1,0 +1,5 @@
+package com.user.management.security;
+
+public class CustomUserDetailsService {
+
+}

@@ -1,0 +1,5 @@
+package com.apache.tiles.app.configuration;
+
+public class AppConfig {
+
+}
